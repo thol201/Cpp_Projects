@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: Katalog pośredni (x64\Debug\) zawiera pliki udostępnione z innego projektu (Somali_pirates_of_Crackbieren.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  Ai.cpp
+C:\Users\TH\source\repos\POB\Project_Ships\Somali_pirates_of_Crackbieren\Ai.cpp(16,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Area.cpp
+C:\Users\TH\source\repos\POB\Project_Ships\Somali_pirates_of_Crackbieren\Area.cpp(327,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Game_Menager.cpp
+  Game_Object.cpp
+  main.cpp
+  Player.cpp
+  Users.cpp
+  Generowanie kodu...
+  Somali_pirates_of_Crackbieren.vcxproj -> C:\Users\TH\source\repos\POB\Project_Ships\x64\Debug\Game_Ships.exe
