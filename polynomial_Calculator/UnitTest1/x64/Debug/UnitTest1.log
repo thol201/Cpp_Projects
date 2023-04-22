@@ -1,0 +1,41 @@
+﻿  UnitTest1.cpp
+C:\Users\TH\source\repos\POB\ConsoleApplication3\ConsoleApplication3\wielomian.h(44,1): warning C4812: przestarzała deklaracja stylu: zamiast niej użyj "wielomian<T>::wielomian"
+C:\Users\TH\source\repos\POB\ConsoleApplication3\ConsoleApplication3\wielomian.h(50,1): warning C4812: przestarzała deklaracja stylu: zamiast niej użyj "wielomian<T>::wielomian"
+C:\Users\TH\source\repos\POB\ConsoleApplication3\ConsoleApplication3\wielomian.h(57,1): warning C4812: przestarzała deklaracja stylu: zamiast niej użyj "wielomian<T>::wielomian"
+C:\Users\TH\source\repos\POB\ConsoleApplication3\ConsoleApplication3\wielomian.h(128,1): warning C4812: przestarzała deklaracja stylu: zamiast niej użyj "wielomian<T>::wielomian"
+C:\Users\TH\source\repos\POB\ConsoleApplication3\ConsoleApplication3\wielomian.h(136,1): warning C4812: przestarzała deklaracja stylu: zamiast niej użyj "wielomian<T>::wielomian"
+C:\Users\TH\source\repos\POB\ConsoleApplication3\ConsoleApplication3\functions.h(39,25): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\TH\source\repos\POB\ConsoleApplication3\ConsoleApplication3\functions.h(84,25): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\TH\source\repos\POB\ConsoleApplication3\ConsoleApplication3\wielomian.h(136,1): warning C4812: przestarzała deklaracja stylu: zamiast niej użyj "wielomian<int>::wielomian"
+C:\Users\TH\source\repos\POB\ConsoleApplication3\ConsoleApplication3\wielomian.h(137): message : podczas kompilowania funkcji składowej „wielomian<int>::wielomian(int,T *)” klasy klasa szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\TH\source\repos\POB\ConsoleApplication3\UnitTest1\UnitTest1.cpp(40): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „wielomian<int>::wielomian(int,T *)” funkcji szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\TH\source\repos\POB\ConsoleApplication3\UnitTest1\UnitTest1.cpp(25): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „wielomian<int>” klasy klasa szablon
+C:\Users\TH\source\repos\POB\ConsoleApplication3\ConsoleApplication3\wielomian.h(57,1): warning C4812: przestarzała deklaracja stylu: zamiast niej użyj "wielomian<int>::wielomian"
+C:\Users\TH\source\repos\POB\ConsoleApplication3\ConsoleApplication3\wielomian.h(58): message : podczas kompilowania funkcji składowej „wielomian<int>::wielomian(std::string)” klasy klasa szablon
+C:\Users\TH\source\repos\POB\ConsoleApplication3\UnitTest1\UnitTest1.cpp(25): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „wielomian<int>::wielomian(std::string)” funkcji szablon
+C:\Users\TH\source\repos\POB\ConsoleApplication3\ConsoleApplication3\wielomian.h(59,1): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\TH\source\repos\POB\ConsoleApplication3\ConsoleApplication3\wielomian.h(50,1): warning C4812: przestarzała deklaracja stylu: zamiast niej użyj "wielomian<int>::wielomian"
+C:\Users\TH\source\repos\POB\ConsoleApplication3\ConsoleApplication3\wielomian.h(51): message : podczas kompilowania funkcji składowej „wielomian<int>::wielomian(const wielomian<int> &)” klasy klasa szablon
+C:\Users\TH\source\repos\POB\ConsoleApplication3\ConsoleApplication3\wielomian.h(325): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „wielomian<int>::wielomian(const wielomian<int> &)” funkcji szablon
+C:\Users\TH\source\repos\POB\ConsoleApplication3\ConsoleApplication3\wielomian.h(159): message : podczas kompilowania funkcji składowej „T *wielomian<T>::get_ptr(void)” klasy klasa szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\TH\source\repos\POB\ConsoleApplication3\UnitTest1\UnitTest1.cpp(32): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „T *wielomian<T>::get_ptr(void)” funkcji szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\TH\source\repos\POB\ConsoleApplication3\ConsoleApplication3\wielomian.h(44,1): warning C4812: przestarzała deklaracja stylu: zamiast niej użyj "wielomian<int>::wielomian"
+C:\Users\TH\source\repos\POB\ConsoleApplication3\ConsoleApplication3\wielomian.h(45): message : podczas kompilowania funkcji składowej „wielomian<int>::wielomian(void)” klasy klasa szablon
+C:\Users\TH\source\repos\POB\ConsoleApplication3\ConsoleApplication3\wielomian.h(311): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „wielomian<int>::wielomian(void)” funkcji szablon
+  UnitTest1.vcxproj -> C:\Users\TH\source\repos\POB\ConsoleApplication3\x64\Debug\UnitTest1.dll
